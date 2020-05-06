@@ -1,0 +1,6 @@
+framework module hellopodstes {
+  umbrella header "hellopodstes-umbrella.h"
+
+  export *
+  module * { export * }
+}

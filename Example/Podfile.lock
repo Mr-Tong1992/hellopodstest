@@ -1,0 +1,16 @@
+PODS:
+  - hellopodstes (0.1.0)
+
+DEPENDENCIES:
+  - hellopodstes (from `../`)
+
+EXTERNAL SOURCES:
+  hellopodstes:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hellopodstes: 3f09919a37446bf991ebf82c54893966f8f62035
+
+PODFILE CHECKSUM: 1f20c34e014b29dcae4a9381fdd5d22a9c9a97d8
+
+COCOAPODS: 1.8.4
